@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ade-syofyan/quiz-3-ai#readme",
   "dependencies": {
-    "@google/genai": "^1.5.1"
-  },
-  "devDependencies": {}
+    "@google/genai": "^1.5.1",
+    "dotenv": "^16.5.0"
+  }
 }
